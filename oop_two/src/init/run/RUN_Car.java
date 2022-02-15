@@ -24,26 +24,26 @@ public class RUN_Car {
         System.out.println("================ GET INFO ================");
         System.out.println(carC);
         System.out.println("================ Drive ================");
-        engineC.start();
+        carC.start();
         carC.turnLeft();
         carC.turnRight();
-        engineC.stop();
+        carC.stop();
 
         System.out.println("================ GET INFO ================");
         System.out.println(carL);
         System.out.println("================ Drive ================");
-        engineL.start();
+        carL.start();
         carL.turnLeft();
         carL.turnRight();
-        engineL.stop();
+        carL.stop();
 
         System.out.println("================ GET INFO ================");
         System.out.println(carS);
         System.out.println("================ Drive ================");
-        engineS.start();
+        carS.start();
         carS.turnLeft();
         carS.turnRight();
-        engineS.stop();
+        carS.stop();
 
     }
 }

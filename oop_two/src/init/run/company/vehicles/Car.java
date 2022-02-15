@@ -47,4 +47,12 @@ public class Car implements ICar{
                 ", Driver = " + driver.getFio() +
                 ", Engine = model: " + engine.getCompany() + ", power: " + engine.getPerformance();
     }
+
+    public void start(){
+        engine.start();
+    }
+
+    public void stop(){
+        engine.stop();
+    }
 }

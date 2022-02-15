@@ -1,6 +1,8 @@
 package init.run.company.details;
 
-public class Engine implements IEngine{
+
+
+public class Engine implements IEngine {
     private final double performance;
     private final String company;
 
