@@ -1,4 +1,4 @@
-package init.chef.ingrigients.EIngridient;
+package init.chef.salad.ingrigients.EnumIngridient;
 
 public enum IngredientName {
     LEMON("Lemon"),//,  , 50, 80),

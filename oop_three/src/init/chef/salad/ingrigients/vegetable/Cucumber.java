@@ -1,7 +1,7 @@
-package init.chef.ingrigients.vegetable;
+package init.chef.salad.ingrigients.vegetable;
 
-import init.chef.ingrigients.Ingredient;
-import init.chef.ingrigients.EIngridient.IngredientName;
+import init.chef.salad.ingrigients.Ingredient;
+import init.chef.salad.ingrigients.EnumIngridient.IngredientName;
 
 public class Cucumber extends Ingredient {
 

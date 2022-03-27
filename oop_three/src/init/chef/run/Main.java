@@ -1,10 +1,10 @@
 package init.chef.run;
 
-import init.chef.ingrigients.Ingredient;
-import init.chef.ingrigients.fruit.Orange;
-import init.chef.ingrigients.leaf.Mix;
-import init.chef.ingrigients.vegetable.Avocado;
-import init.chef.ingrigients.vegetable.Cucumber;
+import init.chef.salad.ingrigients.Ingredient;
+import init.chef.salad.ingrigients.fruit.Orange;
+import init.chef.salad.ingrigients.leaf.Mix;
+import init.chef.salad.ingrigients.vegetable.Avocado;
+import init.chef.salad.ingrigients.vegetable.Cucumber;
 import init.chef.salad.Salad;
 
 public class Main {

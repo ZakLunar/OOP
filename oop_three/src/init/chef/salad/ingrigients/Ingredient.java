@@ -1,7 +1,7 @@
-package init.chef.ingrigients;
+package init.chef.salad.ingrigients;
 
 
-import init.chef.ingrigients.EIngridient.IngredientName;
+import init.chef.salad.ingrigients.EnumIngridient.IngredientName;
 
 public abstract class Ingredient {
     private int calories;

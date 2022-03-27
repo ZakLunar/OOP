@@ -1,7 +1,7 @@
 //package init.chef.ingredients.type;
 //
-//import init.chef.ingrigients.Ingredient;
-//import init.chef.ingrigients.characteristics.FruitName;
+//import init.chef.salad.ingrigients.Ingredient;
+//import init.chef.salad.ingrigients.characteristics.FruitName;
 //import init.chef.draft.VegetableName;
 //
 //public abstract class Vegetable extends Ingredient {

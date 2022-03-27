@@ -1,6 +1,6 @@
 package init.chef.salad;
 
-import init.chef.ingrigients.Ingredient;
+import init.chef.salad.ingrigients.Ingredient;
 
 public class Salad {
 

@@ -1,7 +1,7 @@
-package init.chef.ingrigients.leaf;
+package init.chef.salad.ingrigients.leaf;
 
-import init.chef.ingrigients.Ingredient;
-import init.chef.ingrigients.EIngridient.IngredientName;
+import init.chef.salad.ingrigients.Ingredient;
+import init.chef.salad.ingrigients.EnumIngridient.IngredientName;
 
 public class Mix extends Ingredient {
     public Mix() {

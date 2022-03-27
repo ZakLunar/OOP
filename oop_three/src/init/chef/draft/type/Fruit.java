@@ -1,7 +1,7 @@
-//package init.chef.ingrigients.type;
+//package init.chef.salad.ingrigients.type;
 //
-//import init.chef.ingrigients.Ingredient;
-//import init.chef.ingrigients.characteristics.FruitName;
+//import init.chef.salad.ingrigients.Ingredient;
+//import init.chef.salad.ingrigients.characteristics.FruitName;
 //
 //import java.util.Objects;
 //
