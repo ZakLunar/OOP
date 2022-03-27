@@ -17,6 +17,6 @@ public class Salad {
 
     @Override
     public String toString(){
-        return "This is our special salad";
+        return "This is our \"special\" salad";
     }
 }
