@@ -9,13 +9,4 @@ public class Lemon extends Ingredient {
         super(IngredientName.LEMON, 13, 50, 80);
     }
 
-//    @Override
-//    public int squeeze() {
-//        return getJuice();
-//    }
-//
-//    @Override
-//    public void cutToHalf() {
-//
-//    }
 }

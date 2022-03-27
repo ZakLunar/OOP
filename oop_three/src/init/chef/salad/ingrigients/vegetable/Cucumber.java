@@ -9,13 +9,4 @@ public class Cucumber extends Ingredient {
         super(IngredientName.CUCUMBER,25,27,180);
     }
 
-//    @Override
-//    public int squeeze() {
-//        return getJuice();
-//    }
-//
-//    @Override
-//    public void cutToHalf() {
-//
-//    }
 }

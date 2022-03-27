@@ -8,14 +8,5 @@ public class Avocado extends Ingredient {
     public Avocado() {
         super(IngredientName.AVOCADO, 56,5,145);
     }
-//
-//    @Override
-//    public int squeeze() {
-//        return getJuice();
-//    }
-//
-//    @Override
-//    public void cutToHalf() {
-//
-//    }
+
 }

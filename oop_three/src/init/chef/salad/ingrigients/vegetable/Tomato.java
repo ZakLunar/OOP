@@ -9,13 +9,4 @@ public class Tomato extends Ingredient {
         super(IngredientName.TOMATO, 20,35,120);
     }
 
-//    @Override
-//    public int squeeze() {
-//        return getJuice();
-//    }
-//
-//    @Override
-//    public void cutToHalf() {
-//
-//    }
 }

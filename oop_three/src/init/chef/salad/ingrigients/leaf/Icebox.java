@@ -9,13 +9,4 @@ public class Icebox extends Ingredient {
         super(IngredientName.ICEBOX, 6,2,42);
     }
 
-//    @Override
-//    public int squeeze() {
-//        return getJuice();
-//    }
-//
-//    @Override
-//    public void cutToHalf() {
-//
-//    }
 }

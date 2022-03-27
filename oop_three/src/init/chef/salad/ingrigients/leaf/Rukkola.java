@@ -9,13 +9,4 @@ public class Rukkola extends Ingredient {
         super(IngredientName.RUKKOLA, 5 ,1,21);
     }
 
-//    @Override
-//    public int squeeze() {
-//        return getJuice();
-//    }
-//
-//    @Override
-//    public void cutToHalf() {
-//
-//    }
 }

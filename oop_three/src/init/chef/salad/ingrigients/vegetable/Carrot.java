@@ -9,13 +9,4 @@ public class Carrot extends Ingredient {
         super(IngredientName.CARROT,16,21,165);
     }
 
-//    @Override
-//    public int squeeze() {
-//        return getJuice();
-//    }
-//
-//    @Override
-//    public void cutToHalf() {
-//
-//    }
 }
