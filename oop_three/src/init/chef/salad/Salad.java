@@ -20,7 +20,7 @@ public class Salad {
 
     }
 
-    public void sortingByCalories(Ingredient[] ingredients, IngredientsComparator comparator){
+    public void sortingBy(Ingredient[] ingredients, IngredientsComparator comparator){
         System.out.println("\n=== Sorting salad ingredients by calories from min to max ===");
         Arrays.sort(ingredients, comparator);
         for (Ingredient i : ingredients) {

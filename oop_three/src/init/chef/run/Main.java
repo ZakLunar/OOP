@@ -24,9 +24,8 @@ public class Main {
 
         salad.displayAllIngredients(ingredientArray); //all ingredients
 
-        salad.sortingByCalories(ingredientArray, caloriesComparator); //sorting by calories
+        salad.sortingBy(ingredientArray, caloriesComparator); //sorting by calories
 
         salad.ingredientsInRangeOfCalories(ingredientArray, 15, 40); //ingredients in range of calories
-
     }
 }
