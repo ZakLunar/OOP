@@ -1,6 +1,6 @@
-package init.chef.salad.ingrigients;
+package init.chiefСook.salad.ingrigients;
 
-import init.chef.salad.ingrigients.EnumIngridient.IngredientName;
+import init.chiefСook.salad.ingrigients.EnumIngridient.IngredientName;
 
 import java.util.Objects;
 

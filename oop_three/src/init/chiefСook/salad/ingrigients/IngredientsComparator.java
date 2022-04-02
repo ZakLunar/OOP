@@ -1,4 +1,4 @@
-package init.chef.salad.ingrigients;
+package init.chiefСook.salad.ingrigients;
 
 import java.util.Comparator;
 

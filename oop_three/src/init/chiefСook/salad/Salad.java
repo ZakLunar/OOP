@@ -1,7 +1,7 @@
-package init.chef.salad;
+package init.chiefСook.salad;
 
-import init.chef.salad.ingrigients.Ingredient;
-import init.chef.salad.ingrigients.IngredientsComparator;
+import init.chiefСook.salad.ingrigients.Ingredient;
+import init.chiefСook.salad.ingrigients.IngredientsComparator;
 
 
 import java.util.Arrays;

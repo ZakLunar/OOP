@@ -1,13 +1,13 @@
-package init.chef.run;
+package init.chiefСook.run;
 
-import init.chef.salad.ingrigients.Ingredient;
-import init.chef.salad.ingrigients.fruit.Orange;
-import init.chef.salad.ingrigients.leaf.Mix;
-import init.chef.salad.ingrigients.vegetable.Avocado;
-import init.chef.salad.ingrigients.vegetable.Cucumber;
-import init.chef.salad.Salad;
-import init.chef.salad.ingrigients.vegetable.Tomato;
-import static init.chef.salad.ingrigients.IngredientsComparator.caloriesComparator;
+import init.chiefСook.salad.ingrigients.Ingredient;
+import init.chiefСook.salad.ingrigients.fruit.Orange;
+import init.chiefСook.salad.ingrigients.leaf.Mix;
+import init.chiefСook.salad.ingrigients.vegetable.Avocado;
+import init.chiefСook.salad.ingrigients.vegetable.Cucumber;
+import init.chiefСook.salad.Salad;
+import init.chiefСook.salad.ingrigients.vegetable.Tomato;
+import static init.chiefСook.salad.ingrigients.IngredientsComparator.caloriesComparator;
 
 public class Main {
     public static void main(String[] args) {
